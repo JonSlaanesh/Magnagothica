@@ -1,0 +1,34 @@
+{
+  "id": "maleghast-11",
+  "title": "Maleghast 1.1",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "An up-to-date version of the Maleghast Foundry data created by Chibirobin! All credit goes to them and the original people who got this working.",
+  "packs": [
+    {
+      "name": "maleghast-abilities-11",
+      "label": "Maleghast Abilities 1.1",
+      "path": "packs/maleghast-abilities-11",
+      "type": "Item",
+      "system": "icon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "maleghast-actors-11",
+      "label": "Maleghast Actors 1.1",
+      "path": "packs/maleghast-actors-11",
+      "type": "Actor",
+      "system": "icon",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
